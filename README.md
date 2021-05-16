@@ -61,38 +61,61 @@ The online_algo is exactly the same as the batch except we update the weights an
 
 ## Batch algo vs Online algo for problem one
 
-Batch : Epochs:  966
+Batch : 
+
+Epochs:  966
+
 Weight Changes: 7720
+
 ![Delta change of problem 1 for batch_algo](Pictures/1.PNG) 
 
-Online: Epochs:  110
+Online: 
+
+Epochs:  110
+
 Weight Changes: 366
-![Delta change of problem 1 for online_algo](Pictures/2.png)
+
+![Delta change of problem 1 for online_algo](Pictures/2.PNG)
 
 ## Batch algo vs Online algo for problem four
 
-Batch : Epochs:  9
+Batch :
+
+Epochs:  9
+
 Weight Changes: 64
-![Delta change of problem 4 for batch_algo](Pictures/3.png) 
+
+![Delta change of problem 4 for batch_algo](Pictures/3.PNG) 
 
 
 
-Online: Epochs:  4
+Online:
+
+Epochs:  4
+
 Weight Changes: 9
-![Delta change of problem 4 for online_algo](Pictures/4.png)
+
+![Delta change of problem 4 for online_algo](Pictures/4.PNG)
 
 ## Batch algo vs Online algo for data generator
 
 Batch:
 
 Model Accuracy :  100.0 %
+
 Epochs:  6
+
 Weight Changes: 58
-![Delta change and model visualization for batch_algo](Pictures/5.png) 
+
+![Delta change and model visualization for batch_algo](Pictures/5.PNG) 
+
 Online:
 
 Model Accuracy :  100.0 %
+
 Epochs:  9
+
 Weight Changes: 18
-![Delta change and model visualization for online_algo](Pictures/6.png) 
+
+![Delta change and model visualization for online_algo](Pictures/6.PNG) 
 
