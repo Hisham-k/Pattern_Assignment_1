@@ -63,7 +63,7 @@ The online_algo is exactly the same as the batch except we update the weights an
 
 Batch : Epochs:  966
 Weight Changes: 7720
-![Delta change of problem 1 for batch_algo](Pictures/1.png?raw=true) 
+![Delta change of problem 1 for batch_algo](Pictures/1.PNG) 
 
 Online: Epochs:  110
 Weight Changes: 366
