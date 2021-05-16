@@ -7,7 +7,7 @@
 
 
 
-# Methods Expilination 
+# Methods Explaination 
 
 In our solution we implemented 3 functions, batch_algo, online_algo and random generator. We had inspirations from the tutorial code
 and then we wrote it our way with some changes.
@@ -36,7 +36,7 @@ While the norm of the delta is still larger than the error we defind above (Whic
         We then check if not all the deltas == zero we update the weight change count
     After the for loop we update the delta and append it in array to be plotted later
     
-    We increas the epoch count and then repreat all of this until delta reaches zero
+    We increase the epoch count and then repreat all of this until delta reaches zero
 
 
 # 2- Online_algo
